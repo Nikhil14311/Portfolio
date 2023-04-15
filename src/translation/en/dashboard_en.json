@@ -1,0 +1,23 @@
+{
+    "charan": "Charan Karanam",
+    "home" : "Home",
+    "aboutus" : "About Us",
+    "contactus" : "Contact Us",
+    "english":"English",
+    "telugu" : "Telugu",
+    "fullstackdeveloper" : "Full Stack Developer",
+    "passion" : "I have a passion in React and Bootstrap as well to impliment new websites.",
+    "c":"C",
+    "java":"Java",
+    "javascript":"Java Script",
+    "reactjs":"React Js",
+    "reactnative":"React Native",
+    "excellenxyinlanguages":"Excellency in Languages",
+    "projects":"Projects",
+    "showmore":"Show More",
+    "instagramweb":"Instagram Web",
+    "whatsappweb":"Whatsapp Web",
+    "hdfcbank":"HDFC Bank",
+    "copyrightclaim":"Copyright Claim",
+    "logout":"Logout"
+}
